@@ -1,2 +1,2 @@
 # git-demo
-Unstaged
+Unstaged 0
